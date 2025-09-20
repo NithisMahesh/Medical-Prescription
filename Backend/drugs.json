@@ -1,0 +1,8 @@
+[
+    {"name":"Paracetamol","min_mg":250,"max_mg":1000,"allergens":[]},
+    {"name":"Amoxicillin","min_mg":250,"max_mg":1000,"allergens":["penicillin"]},
+    {"name":"Warfarin","min_mg":1,"max_mg":10,"allergens":[]},
+    {"name":"Aspirin","min_mg":50,"max_mg":325,"allergens":[]},
+    {"name":"Ibuprofen","min_mg":100,"max_mg":800,"allergens":[]}
+  ]
+  
